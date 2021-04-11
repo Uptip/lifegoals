@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/lifegoals/static/js/main.d90aee02.chunk.js",
+    "main.js.map": "/lifegoals/static/js/main.d90aee02.chunk.js.map",
+    "runtime-main.js": "/lifegoals/static/js/runtime-main.ff4ffa43.js",
+    "runtime-main.js.map": "/lifegoals/static/js/runtime-main.ff4ffa43.js.map",
+    "static/css/2.1966d150.chunk.css": "/lifegoals/static/css/2.1966d150.chunk.css",
+    "static/js/2.e1f5df71.chunk.js": "/lifegoals/static/js/2.e1f5df71.chunk.js",
+    "static/js/2.e1f5df71.chunk.js.map": "/lifegoals/static/js/2.e1f5df71.chunk.js.map",
+    "static/js/3.32dbbc99.chunk.js": "/lifegoals/static/js/3.32dbbc99.chunk.js",
+    "static/js/3.32dbbc99.chunk.js.map": "/lifegoals/static/js/3.32dbbc99.chunk.js.map",
+    "index.html": "/lifegoals/index.html",
+    "static/css/2.1966d150.chunk.css.map": "/lifegoals/static/css/2.1966d150.chunk.css.map",
+    "static/js/2.e1f5df71.chunk.js.LICENSE.txt": "/lifegoals/static/js/2.e1f5df71.chunk.js.LICENSE.txt",
+    "static/media/400.css": "/lifegoals/static/media/inter-vietnamese-400-normal.c15997f1.woff2",
+    "static/media/800.css": "/lifegoals/static/media/inter-vietnamese-800-normal.c15997f1.woff2",
+    "static/media/logo.e0c06f03.svg": "/lifegoals/static/media/logo.e0c06f03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff4ffa43.js",
+    "static/css/2.1966d150.chunk.css",
+    "static/js/2.e1f5df71.chunk.js",
+    "static/js/main.d90aee02.chunk.js"
+  ]
+}
